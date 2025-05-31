@@ -5,4 +5,5 @@ This MOBILECONFIG And The Apps Are Removable.
 
 ## Installation
 Click The Link Below And Follow The Steps On Your Device.
-[Install](https://stuffzez.github.io/iOS-Configs/WebApps/Stremio/Stremio%20iOS.mobileconfig)
+<br>
+[Install Config](https://stuffzez.github.io/iOS-Configs/WebApps/Stremio/Stremio%20iOS.mobileconfig)
